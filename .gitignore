@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Submission markdown files
+submissions/*.md
+submissions/*.png
+
+
 # C extensions
 *.so
 
